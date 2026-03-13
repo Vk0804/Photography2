@@ -103,3 +103,5 @@ const weatherDescriptions = {
   96: "Thunderstorm with slight hail",
   99: "Thunderstorm with heavy hail"
 };
+
+////https://www.freecodecamp.org/news/how-to-build-a-website-from-scratch-start-to-finish-walkthrough/
